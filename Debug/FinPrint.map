@@ -1,0 +1,796 @@
+Archive member included because of file (symbol)
+
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./HAL/LCD/LCD.o (__udivmodhi4)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./HAL/LCD/LCD.o (__divmodsi4)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./MCAL/DIO/DIO_cfg.o (__do_copy_data)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/UART/UART_Program.o (__do_clear_bss)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/SPI/SPI.o (__fixunssfsi)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./MCAL/SPI/SPI.o (__mulsf3)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./MCAL/SPI/SPI.o (__gtsf2)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./MCAL/SPI/SPI.o (__ltsf2)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/UART/UART_Program.o
+LOAD ./MCAL/SPI/SPI.o
+LOAD ./MCAL/DIO/DIO.o
+LOAD ./MCAL/DIO/DIO_cfg.o
+LOAD ./HAL/LCD/LCD.o
+LOAD ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+LOAD ./FingerPrint_Servic.o
+LOAD ./main.o
+LOAD g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x38d6
+ *(.vectors)
+ .vectors       0x00000000       0x54 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_1
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_11
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/UART/UART_Program.o
+ .text          0x00000092        0x0 ./MCAL/SPI/SPI.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_cfg.o
+ .text          0x00000092        0x0 ./HAL/LCD/LCD.o
+ .text          0x00000092        0x0 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .text          0x00000092        0x0 ./FingerPrint_Servic.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632       0x60 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000632                __gtsf2
+ .text          0x00000692       0x60 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000692                __gesf2
+ .text          0x000006f2       0x60 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000006f2                __ltsf2
+ .text          0x00000752       0xa8 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x00000752                __fixsfsi
+ .text          0x000007fa        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x000007fa        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x000007fa        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x000007fa        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x000007fa      0x1aa g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x000007fa                __pack_f
+ .text          0x000009a4       0xf0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x000009a4                __unpack_f
+ .text          0x00000a94       0xb2 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000a94                __fpcmp_parts_f
+                0x00000b46                . = ALIGN (0x2)
+ *(.text.*)
+ .text.UART_Init
+                0x00000b46       0x3a ./MCAL/UART/UART_Program.o
+                0x00000b46                UART_Init
+ .text.UART_sendByte
+                0x00000b80       0x34 ./MCAL/UART/UART_Program.o
+                0x00000b80                UART_sendByte
+ .text.UART_sendString
+                0x00000bb4       0x7a ./MCAL/UART/UART_Program.o
+                0x00000bb4                UART_sendString
+ .text.UART_receiveByteSynch
+                0x00000c2e       0x1e ./MCAL/UART/UART_Program.o
+                0x00000c2e                UART_receiveByteSynch
+ .text.UART_RX_InterruptEnable
+                0x00000c4c       0x1c ./MCAL/UART/UART_Program.o
+                0x00000c4c                UART_RX_InterruptEnable
+ .text.UART_RX_InterruptDisable
+                0x00000c68       0x1c ./MCAL/UART/UART_Program.o
+                0x00000c68                UART_RX_InterruptDisable
+ .text.UART_receiveByteAsynchCallBack
+                0x00000c84       0x2e ./MCAL/UART/UART_Program.o
+                0x00000c84                UART_receiveByteAsynchCallBack
+ .text.UART_ReciveNoBlock
+                0x00000cb2       0x14 ./MCAL/UART/UART_Program.o
+                0x00000cb2                UART_ReciveNoBlock
+ .text.__vector_13
+                0x00000cc6       0x68 ./MCAL/UART/UART_Program.o
+                0x00000cc6                __vector_13
+ .text.SPI_Init
+                0x00000d2e       0x46 ./MCAL/SPI/SPI.o
+                0x00000d2e                SPI_Init
+ .text.SPI_SendRecive
+                0x00000d74       0x3a ./MCAL/SPI/SPI.o
+                0x00000d74                SPI_SendRecive
+ .text.SPI_SlaveRecivePeriodic
+                0x00000dae       0x3c ./MCAL/SPI/SPI.o
+                0x00000dae                SPI_SlaveRecivePeriodic
+ .text.SPI_SendNoBlockInBuffer
+                0x00000dea       0x1c ./MCAL/SPI/SPI.o
+                0x00000dea                SPI_SendNoBlockInBuffer
+ .text.SPI_SendRecive_RuntimeOut
+                0x00000e06      0x156 ./MCAL/SPI/SPI.o
+                0x00000e06                SPI_SendRecive_RuntimeOut
+ .text.DIO_InitPin
+                0x00000f5c      0x4e2 ./MCAL/DIO/DIO.o
+ .text.DIO_WritePin
+                0x0000143e      0x20e ./MCAL/DIO/DIO.o
+                0x0000143e                DIO_WritePin
+ .text.DIO_ReadPin
+                0x0000164c      0x104 ./MCAL/DIO/DIO.o
+                0x0000164c                DIO_ReadPin
+ .text.DIO_Init
+                0x00001750       0x38 ./MCAL/DIO/DIO.o
+                0x00001750                DIO_Init
+ .text.DIO_WritePort
+                0x00001788       0x82 ./MCAL/DIO/DIO.o
+                0x00001788                DIO_WritePort
+ .text.DIO_TogglePin
+                0x0000180a      0x10c ./MCAL/DIO/DIO.o
+                0x0000180a                DIO_TogglePin
+ .text.LCD_WRITEINSTRACTION
+                0x00001916      0x472 ./HAL/LCD/LCD.o
+ .text.LCD_WRITEDATA
+                0x00001d88      0x472 ./HAL/LCD/LCD.o
+ .text.LCD_INIT
+                0x000021fa      0x20c ./HAL/LCD/LCD.o
+                0x000021fa                LCD_INIT
+ .text.LCD_CLEAR
+                0x00002406      0x110 ./HAL/LCD/LCD.o
+                0x00002406                LCD_CLEAR
+ .text.LCD_WRITENUMBER
+                0x00002516      0x11e ./HAL/LCD/LCD.o
+                0x00002516                LCD_WRITENUMBER
+ .text.LCD_WRITECHAR
+                0x00002634       0x1a ./HAL/LCD/LCD.o
+                0x00002634                LCD_WRITECHAR
+ .text.LCD_WRITESTRING
+                0x0000264e       0x52 ./HAL/LCD/LCD.o
+                0x0000264e                LCD_WRITESTRING
+ .text.LCD_WRITEBINARY
+                0x000026a0       0x60 ./HAL/LCD/LCD.o
+                0x000026a0                LCD_WRITEBINARY
+ .text.private  0x00002700       0xb0 ./HAL/LCD/LCD.o
+ .text.LCD_WRITEHEX
+                0x000027b0      0x14e ./HAL/LCD/LCD.o
+                0x000027b0                LCD_WRITEHEX
+ .text.LCD_SETCURSOR
+                0x000028fe       0x4e ./HAL/LCD/LCD.o
+                0x000028fe                LCD_SETCURSOR
+ .text.LCD_WRITENUMBER_4DIGITE
+                0x0000294c      0x116 ./HAL/LCD/LCD.o
+                0x0000294c                LCD_WRITENUMBER_4DIGITE
+ .text.LCD_CLEARPOSITION
+                0x00002a62       0x40 ./HAL/LCD/LCD.o
+                0x00002a62                LCD_CLEARPOSITION
+ .text.LCD_WRITEPATTERN
+                0x00002aa2       0x82 ./HAL/LCD/LCD.o
+                0x00002aa2                LCD_WRITEPATTERN
+ .text.GeneralFunc_FingerPrint
+                0x00002b24      0x15c ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .text.GeneralCheckSum_Calc
+                0x00002c80       0x72 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .text.FingerPS_AuraControlPurple
+                0x00002cf2       0x86 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00002cf2                FingerPS_AuraControlPurple
+ .text.FingerPS_AuraControlBlue
+                0x00002d78       0x86 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00002d78                FingerPS_AuraControlBlue
+ .text.FingerPS_AuraControlRed
+                0x00002dfe       0x86 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00002dfe                FingerPS_AuraControlRed
+ .text.GeneralFunc_ReturnFingerPrint
+                0x00002e84       0x40 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .text.FingerPS_handShake
+                0x00002ec4       0x4c ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00002ec4                FingerPS_handShake
+ .text.FingerPS_genImg
+                0x00002f10       0x4c ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00002f10                FingerPS_genImg
+ .text.FingerPS_convertImg1CharFile
+                0x00002f5c       0x86 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00002f5c                FingerPS_convertImg1CharFile
+ .text.FingerPS_convertImg2CharFile
+                0x00002fe2       0x86 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00002fe2                FingerPS_convertImg2CharFile
+ .text.FingerPS_genTemplate
+                0x00003068       0x4c ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00003068                FingerPS_genTemplate
+ .text.FingerPS_strTemplate
+                0x000030b4       0x70 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x000030b4                FingerPS_strTemplate
+ .text.FingerPS_searchFinger
+                0x00003124       0x74 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00003124                FingerPS_searchFinger
+ .text.FingerPS_emptyLibrary
+                0x00003198       0x4c ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00003198                FingerPS_emptyLibrary
+ .text.FingerPS_deleteFinger
+                0x000031e4       0x70 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x000031e4                FingerPS_deleteFinger
+ .text.FingerPS_LoadCharFile
+                0x00003254       0x70 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00003254                FingerPS_LoadCharFile
+ .text.FingerPS_calcCheckSum
+                0x000032c4       0x12 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x000032c4                FingerPS_calcCheckSum
+ .text.FingerPS_match
+                0x000032d6       0x4c ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x000032d6                FingerPS_match
+ .text.ReceiveFun
+                0x00003322       0x42 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00003322                ReceiveFun
+ .text.FingerPrint_EnrollmentFSFunc
+                0x00003364      0x1b8 ./FingerPrint_Servic.o
+                0x00003364                FingerPrint_EnrollmentFSFunc
+ .text.FingerPrint_MatchFunc
+                0x0000351c       0x5a ./FingerPrint_Servic.o
+                0x0000351c                FingerPrint_MatchFunc
+ .text.main     0x00003576      0x24c ./main.o
+                0x00003576                main
+ .text.libgcc   0x000037c2       0x28 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x000037c2                __udivmodhi4
+ .text.libgcc   0x000037ea       0x36 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x000037ea                __divmodsi4
+ .text.libgcc   0x00003820        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00003820        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00003820        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003820       0x44 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00003820                __udivmodsi4
+ .text.libgcc   0x00003864       0x38 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00003864                __prologue_saves__
+ .text.libgcc   0x0000389c       0x36 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000389c                __epilogue_restores__
+                0x000038d2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000038d2        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000038d2                exit
+                0x000038d2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000038d2        0x4 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000038d6                _etext = .
+
+.data           0x00800060       0xb0 load address 0x000038d6
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/UART/UART_Program.o
+ .data          0x00800060        0x0 ./MCAL/SPI/SPI.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_cfg.o
+ .data          0x00800060        0x6 ./HAL/LCD/LCD.o
+ .data          0x00800066        0x0 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .data          0x00800066       0x2a ./FingerPrint_Servic.o
+ .data          0x00800090       0x35 ./main.o
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x008000c5        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x008000c5        0x8 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x008000c5                __thenan_sf
+ .data          0x008000cd        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x008000cd        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x008000cd        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x008000cd        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x008000cd        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x008000cd        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.data*)
+ .data.Page_ID  0x008000cd        0x1 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x008000cd                Page_ID
+ *(.rodata)
+ *(.rodata*)
+ .rodata.PinsStatusArray
+                0x008000ce       0x20 ./MCAL/DIO/DIO_cfg.o
+                0x008000ce                PinsStatusArray
+ .rodata.C.1.1402
+                0x008000ee        0x8 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .rodata.C.2.1412
+                0x008000f6        0x8 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .rodata.C.3.1422
+                0x008000fe        0x8 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .rodata.C.4.1461
+                0x00800106        0x5 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .rodata.C.5.1471
+                0x0080010b        0x5 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ *(.gnu.linkonce.d*)
+                0x00800110                . = ALIGN (0x2)
+                0x00800110                _edata = .
+                0x00800110                PROVIDE (__data_end, .)
+
+.bss            0x00800110        0x6
+                0x00800110                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800110        0x0 ./MCAL/UART/UART_Program.o
+ .bss           0x00800110        0x0 ./MCAL/SPI/SPI.o
+ .bss           0x00800110        0x0 ./MCAL/DIO/DIO.o
+ .bss           0x00800110        0x0 ./MCAL/DIO/DIO_cfg.o
+ .bss           0x00800110        0x0 ./HAL/LCD/LCD.o
+ .bss           0x00800110        0x0 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ .bss           0x00800110        0x0 ./FingerPrint_Servic.o
+ .bss           0x00800110        0x0 ./main.o
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800110        0x0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.bss*)
+ .bss.ptr_isr   0x00800110        0x2 ./MCAL/UART/UART_Program.o
+                0x00800110                ptr_isr
+ .bss.GloblaArrACK
+                0x00800112        0x1 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00800112                GloblaArrACK
+ .bss.GSumCalc  0x00800113        0x1 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00800113                GSumCalc
+ .bss.array_receive
+                0x00800114        0x1 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                0x00800114                array_receive
+ .bss.i.1567    0x00800115        0x1 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+ *(COMMON)
+                0x00800116                PROVIDE (__bss_end, .)
+                0x000038d6                __data_load_start = LOADADDR (.data)
+                0x00003986                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800116        0x0
+                0x00800116                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800116                PROVIDE (__noinit_end, .)
+                0x00800116                _end = .
+                0x00800116                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x3cb4
+ *(.stab)
+ .stab          0x00000000      0x414 ./MCAL/UART/UART_Program.o
+ .stab          0x00000414      0x630 ./MCAL/SPI/SPI.o
+                                0x63c (size before relaxing)
+ .stab          0x00000a44      0x744 ./MCAL/DIO/DIO.o
+                                0x750 (size before relaxing)
+ .stab          0x00001188       0xfc ./MCAL/DIO/DIO_cfg.o
+                                0x204 (size before relaxing)
+ .stab          0x00001284     0x1368 ./HAL/LCD/LCD.o
+                               0x1500 (size before relaxing)
+ .stab          0x000025ec      0xda4 ./HAL/FINGER PRINT/FIGER_PRINT_Programe.o
+                                0xf3c (size before relaxing)
+ .stab          0x00003390      0x4c8 ./FingerPrint_Servic.o
+                                0x660 (size before relaxing)
+ .stab          0x00003858      0x45c ./main.o
+                                0x6a8 (size before relaxing)
+
+.stabstr        0x00000000     0x17fb
+ *(.stabstr)
+ .stabstr       0x00000000     0x17fb ./MCAL/UART/UART_Program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x140
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000080       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000000e0       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000100       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x170
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1e g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x0000008c       0x1e g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000aa       0x1e g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000c8       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x000000e8       0x22 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000010a       0x1f g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000129       0x21 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x0000014a       0x26 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x1c49
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x27f g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00000c2f      0x27f g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00000eae      0x27f g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x0000112d      0x2b0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000013dd      0x12c g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001509      0x2df g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x000017e8      0x251 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001a39      0x210 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xeeb
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x15a g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000005bc      0x15a g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000716      0x15a g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000870      0x17f g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x000009ef       0xad g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000a9c      0x1c0 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000c5c      0x154 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000db0      0x13b g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xdad
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f       0xd3 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000662       0xd3 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000735       0xd3 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000808      0x109 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000911       0x90 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000009a1      0x18a g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000b2b      0x14b g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000c76      0x137 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x160
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000a0       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000c0       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x000000e0       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000100       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000120       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000140       0x20 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x28d
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233        0xf g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000242        0x8 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000024a        0x8 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000252        0xa g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000025c       0x16 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000272        0xb g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x0000027d       0x10 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x7ce
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0x3c g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000049e       0x3c g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000004da       0x3c g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00000516       0x7e g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000594      0x13e g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000006d2       0xac g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000077e       0x50 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(FinPrint.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 g:/embedded course/nti contant/nti software/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
